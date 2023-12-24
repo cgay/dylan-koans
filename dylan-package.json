@@ -1,0 +1,11 @@
+{
+    "dependencies": [  ],
+    "dev-dependencies": [
+        "testworks"
+    ],
+    "description": "Learn Dylan by solving these koans",
+    "name": "dylan-koans",
+    "version": "0.1.0",
+    "url": "https://github.com/cgay/dylan-koans",
+    "license": "MIT",
+}
