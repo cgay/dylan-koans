@@ -19,6 +19,8 @@ define test test-basic-array-stuff ()
   // The generic function `size` returns the total number of elements in an
   // array.
   assert-equal(TODO, size(chess-board));
+  // "Dot notation" is just syntactic sugar for calling a unary function.
+  assert-equal(chess-board.size, size(TODO));
 end test;
 
 define test test-make-your-own-array ()
